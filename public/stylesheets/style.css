@@ -1,0 +1,42 @@
+h1,h2,h3,h4,{
+    font-family: fantasy;
+    font-size: 40px;
+    
+}
+
+.p1
+{
+    padding:30px;
+}
+
+.navbar-brand 
+{
+    font-family: serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+legend 
+{
+    font-family: serif;
+    color: purple;
+}
+
+body
+{
+    font-family: serif,sans-serif,monospace;
+    color: whitesmoke;
+    background-image: url(cinema.jpg);
+    background-size: cover;
+    margin: 10px;
+    font-size: 20px;
+}
+li.nav-item
+{
+    text-decoration: none;
+    list-style: none;
+}
+button.navbar-toggler.navbar-toggler-right
+{
+    text-decoration: none; 
+}

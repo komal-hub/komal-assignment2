@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1.pl= title
+    ul.pl
+        each m in movie
+            li
+                h3 #{m.name}
+                h3 #{m.year}	
